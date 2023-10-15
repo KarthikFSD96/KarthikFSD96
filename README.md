@@ -1,9 +1,12 @@
 👋 Hey there, I'm Karthik Raju M L
 
-💻 Aspiring Full Stack Developer | 🌐 Web Enthusiast | 🚀 Code Explorer
+💻 Aspiring Full Stack Developer | 🌐 Web Enthusiast | 🚀 Code Explorer | 🌌 Backend Developer in Training
 
 🌟 About Me
-I'm a tech enthusiast on a quest to master the art of Full Stack Development. With a strong command of Java, Data Structures, Algorithms, HTML, CSS, and JavaScript, I'm on a relentless pursuit of crafting dynamic and interactive web experiences.
+I'm a tech enthusiast on a quest to master the art of Full Stack Development. With a strong command of Java, Data Structures, Algorithms, HTML, CSS, and JavaScript, I'm on a relentless pursuit of crafting dynamic and interactive web experiences. 
+
+👨‍💼 Backend Dreams
+Currently, I'm also diving into the fascinating realm of Backend Development. I'm learning the intricacies of Node.js and MongoDB to power the server-side of the web. My goal is to build robust and scalable applications from end to end.
 
 🛠️ What I Do
 My coding journey revolves around building functional, elegant, and innovative solutions. From creating beautiful web interfaces to optimizing algorithms, I love diving into the world of bits and bytes.
